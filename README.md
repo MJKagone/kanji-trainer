@@ -1,5 +1,7 @@
 # Kanji Trainer
 
+![gif](kanjitrainer.gif)
+
 This is a simple Java application that helps users learn Kanji, the logographic characters used in the Japanese writing system. The project is built with Maven and uses JavaFX for the graphical user interface.
 
 ## Source files
@@ -15,23 +17,4 @@ This is a simple Java application that helps users learn Kanji, the logographic 
 ## Quick start guide (non-developers)
 
 See the releases on the right or click [here](https://github.com/MJKagone/Kanji-trainer/releases/latest).
-
-## Screenshots
-
-Start screen:
-
-![Main screen](screenshots/kanjitrainer1.png)
-
-Click "capital":
-
-![Incorrect answer](screenshots/kanjitrainer2.png)
-
-Click "to go":
-
-![Correct answer](screenshots/kanjitrainer3.png)
-
-Wait a few seconds:
-
-![Next question](screenshots/kanjitrainer4.png)
-
 
